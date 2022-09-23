@@ -20,10 +20,28 @@ a:hover{
 .jumbotron{
     background-color: #96858F;
 }
+h1 .front-logo{
+    color: white ;
+}
+.col-sm-2 .cover{
+    height: 200px;
+    margin: 50px 0px;
+}
+.front-nav-1{
+    background-color: #64271b;
+}
+.front-nav-2{
+    background-color: #354243;
+}
+.front-nav-3{
+    background-color: #80598d;
+}
 
 
 /* Homepage styles*/
 .cover{
     height:300px;
     margin-top:25%;
+    background-image: url("https://www.publicdomainpictures.net/pictures/140000/t2/ark-texture-impasto-color-swirl-.jpg");
+    background-size: cover ;
 }
